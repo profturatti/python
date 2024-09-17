@@ -1,0 +1,30 @@
+Metas desta aula
+
+1. Executar este app básico
+'''
+from flask import Flask #importo o Flask
+
+app = Flask(__name__) #crio objeto app
+
+@app.route('/') # app.propriedade_rota(caminho)
+def hello_world(): # funcao hello world
+    return 'Bem vindo ao Python com Flask' # retorno da funcao
+
+@app.route('/hello/<name>')
+def hello_name(name):
+   return 'Olá %s!' % name
+
+# main driver function
+if __name__ == '__main__':
+    app.run() # executa o app
+'''
+
+2. Observando os exemplos fornecidos, crie a estrutura onde as rotas 
+   funcionem no arquivo routes.py ao invés do main.py
+
+3. Substitua as frases de retorno (return <string>) pela chamada de 
+   arquivos HTML, como por exemplo inicio.html e outraPagina.html
+
+4. Crie um menu de navegação, que funcione como um cabeçalho presente
+   em todas as páginas do seu programa e que use diferentes rotas para 
+   mostrar outros conteúdos

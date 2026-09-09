@@ -2,17 +2,17 @@
 
 Linguagem utilizada: Python
 
-Cursos:
-
-13701 - Ciência da Computação
+Cursos: 13701 - Ciência da Computação
 
 Turmas: CC1P12, CC2P12, CC2Q12, SI1P12 e SI2P12
 
 Divisões de laboratório de práticas
 
-CC1P12 e CC2P12 - Prof. Rafael
-CC2Q12 - Prof. Luciano 
-SI1P12 e SI2P12 - Prof. Turatti
+CC1P12 e CC2P12 - Prof. **Rafael**
+
+CC2Q12 - Prof. **Luciano** 
+
+SI1P12 e SI2P12 - Prof. **Turatti**
 
 Pré-aula: 18h00-19h10 | 1o. Horário: 19h10-20h25 | 2o. Horário: 20h45-22h00
 

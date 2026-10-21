@@ -25,11 +25,11 @@ Pré-aula: 18h00-19h10 | 1o. Horário: 19h10-20h25 | 2o. Horário: 20h45-22h00
 | 26.ago | AULA 02 - Operadores, expressões e variáveis: conceito de variável, constantes e números, expressões, operadores matemáticos, operadores de atribuição e precedência dos operadores; BeeCrowd | [Modulo 2](https://github.com/profturatti/python/blob/main/materiais/Modulo02_Operadores_Expressoes_e_Variaveis.pdf) [Exercícios](https://github.com/profturatti/python/blob/main/materiais/20260826_lista1.txt) [Notas de aula](https://github.com/profturatti/python/blob/main/materiais/aula20260826.pdf) [BeeCrowd](https://github.com/profturatti/python/blob/main/materiais/beecrowd-python-handout.pdf)
 | 02.set | AULA 03 - Estrutura condicional: IF, ELIF e ELSE; SWITCH CASE; BREAK e CONTINUE. | [Módulo 3](https://github.com/profturatti/python/blob/main/materiais/Modulo03_Estrutura_Condicional_Python.pdf) [Exercícios](https://github.com/profturatti/python/blob/main/materiais/20260902_lista2.txt)
 | 09.set | AULA 04 - Estrutura de repetição: WHILE e FOR; exercícios de fixação com laços de repetição. | [Módulo 4](https://github.com/profturatti/python/blob/main/materiais/Modulo04_Estruturas_de_repeticao.pdf) [Exercícios](https://github.com/profturatti/python/blob/main/materiais/20260909_lista3.txt) 
-| 16.set | AULA 05 - Revisão e exercícios integradores dos conteúdos dos Módulos 1 a 4, com preparação para NP1. | [Módulo]()
+| 16.set | AULA 05 - Revisão e exercícios integradores dos conteúdos dos Módulos 1 a 4, com preparação para NP1. | 
 | 23.set | Avaliação NP1 - Conteúdos dos Módulos 1 a 4.
-| 30.set | AULA 06 - Correção comentada da NP1; Funções: parâmetros, variáveis locais e globais, argumento default. | [Módulo]()
-| 07.out | AULA 07 - Strings e arquivos: manipulação de strings; abertura, leitura e gravação em arquivos. | [Módulo]()
-| 14.out | AULA 08 - Matrizes: manipulação básica de matrizes. Estrutura de dados: lista, tupla, sequência e conjunto (set). | [Módulo]()
+| 30.set | AULA 06 - Correção comentada da NP1; Funções: parâmetros, variáveis locais e globais, argumento default. | 
+| 07.out | AULA 07 - Strings e arquivos: manipulação de strings; abertura, leitura e gravação em arquivos. | [Módulo 5 e 6](https://github.com/profturatti/python/blob/main/materiais/Modulos05e06_Funcoes_Strings_Arquivos.pdf)
+| 14.out | AULA 08 - Matrizes: manipulação básica de matrizes. Estrutura de dados: lista, tupla, sequência e conjunto (set). | [Módulo 7 a 10](https://github.com/profturatti/python/blob/main/materiais/Modulos07a10_EstruturasDeDados.pdf)
 | 21.out | AULA 09 - Listas: principais métodos para manipulação de listas. | [Módulo]()
 | 28.out | AULA 10 - Dicionários: conceito e principais métodos para manipulação de dicionários. | [Módulo]()
 | 04.nov | AULA 11 - Módulos: sys, instalação de módulos, from...import, arquivos byte-compiled (.pyc). Banco de dados: conexão com MySQL, leitura, gravação e alteração. | [Módulo]()

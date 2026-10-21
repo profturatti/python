@@ -28,11 +28,11 @@ Pré-aula: 18h00-19h10 | 1o. Horário: 19h10-20h25 | 2o. Horário: 20h45-22h00
 | 16.set | AULA 05 - Revisão e exercícios integradores dos conteúdos dos Módulos 1 a 4, com preparação para NP1. | 
 | 23.set | Avaliação NP1 - Conteúdos dos Módulos 1 a 4.
 | 30.set | AULA 06 - Correção comentada da NP1; Funções: parâmetros, variáveis locais e globais, argumento default. | 
-| 07.out | AULA 07 - Strings e arquivos: manipulação de strings; abertura, leitura e gravação em arquivos. | [Módulo 5 e 6](https://github.com/profturatti/python/blob/main/materiais/Modulos05e06_Funcoes_Strings_Arquivos.pdf)
-| 14.out | AULA 08 - Matrizes: manipulação básica de matrizes. Estrutura de dados: lista, tupla, sequência e conjunto (set). | [Módulo 7 a 10](https://github.com/profturatti/python/blob/main/materiais/Modulos07a10_EstruturasDeDados.pdf)
-| 21.out | AULA 09 - Listas: principais métodos para manipulação de listas. | [Módulo]()
-| 28.out | AULA 10 - Dicionários: conceito e principais métodos para manipulação de dicionários. | [Módulo]()
-| 04.nov | AULA 11 - Módulos: sys, instalação de módulos, from...import, arquivos byte-compiled (.pyc). Banco de dados: conexão com MySQL, leitura, gravação e alteração. | [Módulo]()
+| 07.out | AULA 07 - Strings e arquivos: manipulação de strings; abertura, leitura e gravação em arquivos. | [Módulos 5 e 6](https://github.com/profturatti/python/blob/main/materiais/Modulos05e06_Funcoes_Strings_Arquivos.pdf)
+| 14.out | AULA 08 - Matrizes: manipulação básica de matrizes. Estrutura de dados: lista, tupla, sequência e conjunto (set). | [Módulos 7 a 10](https://github.com/profturatti/python/blob/main/materiais/Modulos07a10_EstruturasDeDados.pdf)
+| 21.out | AULA 09 - Listas: principais métodos para manipulação de listas. | \[Módulo\]
+| 28.out | AULA 10 - Dicionários: conceito e principais métodos para manipulação de dicionários. | \[Módulo\]
+| 04.nov | AULA 11 - Módulos: sys, instalação de módulos, from...import, arquivos byte-compiled (.pyc). Banco de dados: conexão com MySQL, leitura, gravação e alteração. | \[Módulo\]
 | 11.nov | Avaliação NP2 - Conteúdos dos Módulos 5 a 12.
 | 18.nov | Avaliação SUB - Aplicação de avaliação substitutiva, conforme período e critérios institucionais.
 | 25.nov | Não haverá aula
